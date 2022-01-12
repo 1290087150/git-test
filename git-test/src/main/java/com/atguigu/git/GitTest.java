@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("hello,git--fix");
         System.out.println("hello,git--fix-fix");
         System.out.println("hello,git4!");
+        System.out.println("master");
     }
 }
